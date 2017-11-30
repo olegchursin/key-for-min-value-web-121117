@@ -10,4 +10,5 @@ def key_for_min_value(name_hash)
       end
       min_value_name = name_hash.key(champion)
       min_value_name
+    end
 end
